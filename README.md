@@ -8,5 +8,7 @@ public class Person {
         this.age = age;
         this.name = name;
         this.age = age;
+        this.name = name;
+        this.age = age;
     }
 }
