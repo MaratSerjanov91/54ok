@@ -13,6 +13,6 @@ public class Person {
         this.name = name;
         this.age = age;
          this.name = name;
-        this.age = 2age;
+        this.age = 18age;
     }
 }
