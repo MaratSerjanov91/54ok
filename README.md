@@ -1,7 +1,7 @@
 # 54ok
 public class Person {
     private String name;
-    private int age1643;
+    private int age01 ;
 
     public Person(String name, int age1w1) {
         this.name = name;
